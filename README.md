@@ -1,2 +1,2 @@
-# soketUdp
+# socketUdp
 Atividades utilizando sockets udp para disciplina de Sistemas Distribuídos
