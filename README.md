@@ -1,2 +1,2 @@
 # socketUdp
-Atividades utilizando sockets udp para disciplina de Sistemas Distribuídos
+Atividades utilizando sockets udp em python, disciplina de Sistemas Distribuídos
